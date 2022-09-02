@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinarySearch", "Binary Sear
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anagram", "..\Anagram\Anagram.csproj", "{878718EA-5830-441E-BF2C-B59C87AF6333}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertionSort", "..\InsertionSort\InsertionSort.csproj", "{6D1ACCEE-FD5E-47B9-A835-40D6AA10D42E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{878718EA-5830-441E-BF2C-B59C87AF6333}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{878718EA-5830-441E-BF2C-B59C87AF6333}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{878718EA-5830-441E-BF2C-B59C87AF6333}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D1ACCEE-FD5E-47B9-A835-40D6AA10D42E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D1ACCEE-FD5E-47B9-A835-40D6AA10D42E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D1ACCEE-FD5E-47B9-A835-40D6AA10D42E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D1ACCEE-FD5E-47B9-A835-40D6AA10D42E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
