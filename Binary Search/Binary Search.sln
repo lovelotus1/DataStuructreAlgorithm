@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anagram", "..\Anagram\Anagr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertionSort", "..\InsertionSort\InsertionSort.csproj", "{6D1ACCEE-FD5E-47B9-A835-40D6AA10D42E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubbleSort", "..\BubbleSort\BubbleSort.csproj", "{BF9B4861-BCE4-4D4C-8E3D-B5D5B8A05373}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{6D1ACCEE-FD5E-47B9-A835-40D6AA10D42E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D1ACCEE-FD5E-47B9-A835-40D6AA10D42E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D1ACCEE-FD5E-47B9-A835-40D6AA10D42E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF9B4861-BCE4-4D4C-8E3D-B5D5B8A05373}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF9B4861-BCE4-4D4C-8E3D-B5D5B8A05373}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF9B4861-BCE4-4D4C-8E3D-B5D5B8A05373}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF9B4861-BCE4-4D4C-8E3D-B5D5B8A05373}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
