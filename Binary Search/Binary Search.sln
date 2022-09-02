@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearch", "Binary Search\BinarySearch.csproj", "{DA67770C-CFB6-4830-AA4B-27668F1151EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinarySearch", "Binary Search\BinarySearch.csproj", "{DA67770C-CFB6-4830-AA4B-27668F1151EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anagram", "..\Anagram\Anagram.csproj", "{878718EA-5830-441E-BF2C-B59C87AF6333}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{DA67770C-CFB6-4830-AA4B-27668F1151EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA67770C-CFB6-4830-AA4B-27668F1151EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA67770C-CFB6-4830-AA4B-27668F1151EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{878718EA-5830-441E-BF2C-B59C87AF6333}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{878718EA-5830-441E-BF2C-B59C87AF6333}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{878718EA-5830-441E-BF2C-B59C87AF6333}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{878718EA-5830-441E-BF2C-B59C87AF6333}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
