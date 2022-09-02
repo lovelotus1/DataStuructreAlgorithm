@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Permutation", "..\Permutati
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeNumber", "..\PrimeNumber\PrimeNumber.csproj", "{874961F1-E42F-4FF6-ADFE-DA815F639297}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Regex", "..\Regex\Regex.csproj", "{5C10A6AD-B2BF-4206-A0F9-6FF712293B93}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{874961F1-E42F-4FF6-ADFE-DA815F639297}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{874961F1-E42F-4FF6-ADFE-DA815F639297}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{874961F1-E42F-4FF6-ADFE-DA815F639297}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C10A6AD-B2BF-4206-A0F9-6FF712293B93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C10A6AD-B2BF-4206-A0F9-6FF712293B93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C10A6AD-B2BF-4206-A0F9-6FF712293B93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C10A6AD-B2BF-4206-A0F9-6FF712293B93}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
